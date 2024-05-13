@@ -465,7 +465,7 @@ GameObject:
   - component: {fileID: 347075041}
   - component: {fileID: 347075040}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Name
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1454,7 +1454,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.17, z: -9.97}
+  m_LocalPosition: {x: 0, y: 2.48, z: -9.56}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1936,7 +1936,7 @@ GameObject:
   - component: {fileID: 1361254230}
   - component: {fileID: 1361254229}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Quit Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
