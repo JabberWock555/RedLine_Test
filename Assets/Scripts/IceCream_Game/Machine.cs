@@ -1,7 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using BezierSolution;
-using BezierSolution.Extras;
 using DG.Tweening;
 using UnityEngine;
 
